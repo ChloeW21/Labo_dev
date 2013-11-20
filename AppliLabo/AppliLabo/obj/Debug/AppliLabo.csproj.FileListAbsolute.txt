@@ -12,3 +12,5 @@ C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.Properties.Reso
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.csproj.GenerateResource.Cache
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.exe
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.pdb
+C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.exe
+C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.pdb
