@@ -1,0 +1,19 @@
+c:\users\millambeur\documents\visual studio 2012\Projects\TFS\TFS\bin\Debug\TFS.exe.config
+C:\Sites\Labo_dev\TFS\TFS\bin\Debug\TFS.exe.config
+C:\Sites\Labo_dev\TFS\TFS\bin\Debug\TFS.exe
+C:\Sites\Labo_dev\TFS\TFS\bin\Debug\TFS.pdb
+C:\Sites\Labo_dev\TFS\TFS\bin\Debug\MySql.Data.dll
+C:\Sites\Labo_dev\TFS\TFS\bin\Debug\MySql.Data.Entity.dll
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\TFS.csprojResolveAssemblyReference.cache
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\MainWindow.baml
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\MainWindow.g.cs
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\App.g.cs
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\TFS_MarkupCompile.cache
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\TFS.g.resources
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\TFS.Properties.Resources.resources
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\TFS.csproj.GenerateResource.Cache
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\TFS.exe
+C:\Sites\Labo_dev\TFS\TFS\obj\Debug\TFS.pdb
+C:\Users\Silvio\Labo_dev\TFS\bin\Debug\TFS.exe.config
+C:\Users\Silvio\Labo_dev\TFS\obj\Debug\TFS.exe
+C:\Users\Silvio\Labo_dev\TFS\obj\Debug\TFS.pdb
