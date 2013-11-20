@@ -1,2 +1,14 @@
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\bin\Debug\AppliLabo.exe.config
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\bin\Debug\AppliLabo.exe.config
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\bin\Debug\AppliLabo.exe
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\bin\Debug\AppliLabo.pdb
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.csprojResolveAssemblyReference.cache
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\MainWindow.baml
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\MainWindow.g.cs
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\App.g.cs
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo_MarkupCompile.cache
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.g.resources
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.Properties.Resources.resources
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.csproj.GenerateResource.Cache
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.exe
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.pdb
