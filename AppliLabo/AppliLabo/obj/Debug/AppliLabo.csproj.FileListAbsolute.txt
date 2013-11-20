@@ -1,1 +1,2 @@
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\bin\Debug\AppliLabo.exe.config
+C:\Sites\Labo_dev\AppliLabo\AppliLabo\bin\Debug\AppliLabo.exe.config
