@@ -14,3 +14,7 @@ C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.exe
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.pdb
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.exe
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo.pdb
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\bin\Debug\MySql.Data.dll
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Connexion.baml
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Connexion.g.cs

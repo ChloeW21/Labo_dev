@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MySql.Data;
+using MySql.Data.MySqlClient;
 
 namespace AppliLabo
 {
@@ -23,6 +25,21 @@ namespace AppliLabo
         public MainWindow()
         {
             InitializeComponent();
+            frame.NavigationService.Navigate(new Connexion(this));
+        }
+
+        public static MySqlConnection Connection()
+        {
+            return new MySqlConnection("Data Source=localhost;Initial Catalog=tfs;User Id=root ;Password=;");
+        }
+
+        public MySqlCommand getCommand()
+        {
+            MySqlConnection maConnection = Connection();
+            maConnection.Open();
+            MySqlCommand maCommande = new MySqlCommand();
+            maCommande.Connection = maConnection;
+            return maCommande;
         }
     }
 }
