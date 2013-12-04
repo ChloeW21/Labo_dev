@@ -1,0 +1,23 @@
+﻿<Page x:Class="AppliLabo.Inscription"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="Inscription">
+
+    <Grid>
+        <TextBox x:Name="textBoxPseudo" HorizontalAlignment="Left" Height="23" Margin="40,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135"/>
+        <TextBox x:Name="textBoxEmail" HorizontalAlignment="Left" Height="23" Margin="40,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="passwordBoxMdp" HorizontalAlignment="Left" Height="22" Margin="40,178,0,0" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="passwordBoxMdpValide" HorizontalAlignment="Left" Height="22" Margin="40,224,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,59,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,108,0,0" TextWrapping="Wrap" Text="Email" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,157,0,0" TextWrapping="Wrap" Text="Mot de Passe" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="40,203,0,0" TextWrapping="Wrap" Text="Valider le Mot de Passe" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="123,10,0,0" TextWrapping="Wrap" Text="INSCRIPTION" VerticalAlignment="Top"/>
+        <Button x:Name="buttonValidate" Content="Valider" HorizontalAlignment="Left" Margin="198,151,0,0" VerticalAlignment="Top" Width="75" Click="buttonValidate_Click"/>
+        <TextBlock x:Name="textBlockError" HorizontalAlignment="Left" Height="28" Margin="69,31,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="156"/>
+    </Grid>
+</Page>

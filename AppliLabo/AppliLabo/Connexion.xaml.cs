@@ -30,12 +30,12 @@ namespace AppliLabo
             InitializeComponent();
         }
 
-        public Boolean Authentification(string Nom, string mdp)
+        public Boolean Authentification(string pseudo, string mdp)
         {
             MySqlCommand maCommande = main.getCommand();
-            string req = "SELECT * FROM  `utilisateur` WHERE `pseudo` = ?login and `mdp`=?Mdp";
-            maCommande.Parameters.AddWithValue("?login", Nom);
-            maCommande.Parameters.AddWithValue("?Mdp", mdp);
+            string req = "SELECT * FROM  `utilisateur` WHERE `pseudo` = ?pseudo and `mdp`=?mdp";
+            maCommande.Parameters.AddWithValue("?pseudo", pseudo);
+            maCommande.Parameters.AddWithValue("?mdp", mdp);
             maCommande.CommandText = req;
             return maCommande.ExecuteScalar() != null;
         }
@@ -47,6 +47,11 @@ namespace AppliLabo
             }
             else
                 textBoxLogin.Text="Raté" ;
+        }
+
+        private void buttonInscription_Click(object sender, RoutedEventArgs e)
+        {
+            main.frame.NavigationService.Navigate(new Inscription(main));
         }
     }
 }
