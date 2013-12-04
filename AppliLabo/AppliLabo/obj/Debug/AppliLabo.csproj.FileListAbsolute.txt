@@ -20,3 +20,5 @@ C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Connexion.baml
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Connexion.g.cs
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Inscription.baml
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Inscription.g.cs
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Accueil.baml
+C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Accueil.g.cs

@@ -41,5 +41,20 @@ namespace AppliLabo
             maCommande.Connection = maConnection;
             return maCommande;
         }
+
+        public string getMailUtilisateur(string pseudo)
+        {
+            MySqlCommand maCommande = getCommand();
+            string req = "Select `email` from `utilisateur` WHERE `pseudo`= ?pseudo;";
+            maCommande.Parameters.AddWithValue("?pseudo", pseudo);
+            maCommande.CommandText = req;
+            MySqlDataReader reader = maCommande.ExecuteReader();
+            string email = null;
+            while (reader.Read())
+            {
+                email = reader["email"].ToString();
+            }
+            return email;
+        }
     }
 }

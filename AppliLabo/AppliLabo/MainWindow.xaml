@@ -3,7 +3,8 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-         <Frame x:Name="frame" HorizontalAlignment="Left" Height="291" VerticalAlignment="Top" Width="517" RenderTransformOrigin="0.497,0.583" Grid.RowSpan="2" Grid.ColumnSpan="4"/>
+        <Frame x:Name="frame" NavigationUIVisibility="Hidden" HorizontalAlignment="Left" Height="293" VerticalAlignment="Top" Width="517" RenderTransformOrigin="0.497,0.583" Margin="0,27,0,0"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="27" Margin="196,0,0,0" VerticalAlignment="Top" Width="81"/>
 
     </Grid>
 </Window>

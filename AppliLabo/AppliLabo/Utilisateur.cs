@@ -20,6 +20,7 @@ namespace TFS
         private String pseudo;
         private String mdp;
         private int score;
+        private String email; 
 
         public int Id
         {

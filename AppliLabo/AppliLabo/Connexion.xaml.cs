@@ -43,10 +43,12 @@ namespace AppliLabo
         private void buttonValidate_Click(object sender, RoutedEventArgs e)
         {
             if(Authentification(textBoxLogin.Text,passwordBoxMdp.Password)){
-                textBoxLogin.Text="Coucou" ; 
+                String email=main.getMailUtilisateur(textBoxLogin.Text);
+                UtilisateurSingleton.getInstance().setValues (textBoxLogin.Text,email,passwordBoxMdp.Password);
+                main.frame.NavigationService.Navigate(new Accueil(main));
             }
             else
-                textBoxLogin.Text="Raté" ;
+                textBoxLogin.Text="Authentification raté" ;
         }
 
         private void buttonInscription_Click(object sender, RoutedEventArgs e)

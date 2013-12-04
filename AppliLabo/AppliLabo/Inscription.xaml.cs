@@ -42,7 +42,8 @@ namespace AppliLabo
                 maCommande.Parameters.AddWithValue("?email", textBoxEmail.Text);
                 maCommande.CommandText = req;
                 maCommande.ExecuteNonQuery();
-                main.frame.NavigationService.Navigate(new Connexion(main));
+                UtilisateurSingleton.getInstance().setValues(textBoxPseudo.Text, textBoxEmail.Text, passwordBoxMdp.Password);
+                main.frame.NavigationService.Navigate(new Accueil(main));
             }
             
         }
