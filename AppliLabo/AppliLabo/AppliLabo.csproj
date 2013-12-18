@@ -71,6 +71,7 @@
       <DependentUpon>Inscription.xaml</DependentUpon>
     </Compile>
     <Compile Include="Utilisateur.cs" />
+    <Compile Include="UtilisateurSingleton.cs" />
     <Page Include="Accueil.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -91,7 +92,6 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Class1.cs" />
     <Compile Include="Consequence.cs" />
     <Compile Include="Defi.cs" />
     <Compile Include="MainWindow.xaml.cs">
