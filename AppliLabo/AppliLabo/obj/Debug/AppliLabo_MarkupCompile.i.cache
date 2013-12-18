@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\App.xaml
-3-912707082
+4-475811342
 
-152125260220
+16465508187
 14-1525259135
-Accueil.xaml;Connexion.xaml;MainWindow.xaml;
+Vues\Accueil.xaml;Vues\Connexion.xaml;Vues\Defi.xaml;Vues\MainWindow.xaml;
 
 False
 

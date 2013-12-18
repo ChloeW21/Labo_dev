@@ -67,20 +67,13 @@
     <Compile Include="Connexion.xaml.cs">
       <DependentUpon>Connexion.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Inscription.xaml.cs">
-      <DependentUpon>Inscription.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Utilisateur.cs" />
     <Compile Include="UtilisateurSingleton.cs" />
     <Page Include="Accueil.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="Connexion.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Inscription.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

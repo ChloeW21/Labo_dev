@@ -24,11 +24,9 @@ C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Accueil.baml
 C:\Users\Silvio\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Accueil.g.cs
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Accueil.baml
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Connexion.baml
-C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Inscription.baml
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\MainWindow.baml
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Accueil.g.cs
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Connexion.g.cs
-C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\Inscription.g.cs
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\MainWindow.g.cs
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\App.g.cs
 C:\Sites\Labo_dev\AppliLabo\AppliLabo\obj\Debug\AppliLabo_MarkupCompile.cache
